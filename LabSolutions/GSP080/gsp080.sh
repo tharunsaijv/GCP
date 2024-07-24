@@ -1,4 +1,6 @@
-echo Welcome to my channel Subscribe for more solutions
+
+
+echo Welcome to my channel. Please Subscribe for more solutions
 
 gcloud config set compute/region $REGION
 
