@@ -1,3 +1,5 @@
+echo Welcome to my channel Subscribe for more solutions
+
 gcloud config set compute/region $REGION
 
 mkdir gcf_hello_world
